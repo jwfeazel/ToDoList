@@ -59,6 +59,8 @@
 		5BE6632024613E8700D8F00E /* ToDoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoCell.swift; sourceTree = "<group>"; };
 		5BE66324246158A900D8F00E /* ToDoList.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ToDoList.gif; path = ../../../../../../Downloads/ToDoList.gif; sourceTree = "<group>"; };
 		5BE663262461590E00D8F00E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../../../../Downloads/README.md; sourceTree = "<group>"; };
+		5BE663282461595000D8F00E /* ToDoList.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ToDoList.gif; sourceTree = "<group>"; };
+		5BE663292461595300D8F00E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,8 @@
 		5BE662DC245FC43000D8F00E = {
 			isa = PBXGroup;
 			children = (
+				5BE663282461595000D8F00E /* ToDoList.gif */,
+				5BE663292461595300D8F00E /* README.md */,
 				5BE662E7245FC43000D8F00E /* ToDoList */,
 				5BE662FE245FC43400D8F00E /* ToDoListTests */,
 				5BE66309245FC43400D8F00E /* ToDoListUITests */,
