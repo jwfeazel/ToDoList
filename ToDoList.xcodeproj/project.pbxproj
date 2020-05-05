@@ -18,6 +18,8 @@
 		5BE6631B245FC59500D8F00E /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6631A245FC59500D8F00E /* ToDoTableViewController.swift */; };
 		5BE6631F2461270C00D8F00E /* ToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6631E2461270C00D8F00E /* ToDoViewController.swift */; };
 		5BE6632124613E8700D8F00E /* ToDoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6632024613E8700D8F00E /* ToDoCell.swift */; };
+		5BE66325246158A900D8F00E /* ToDoList.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5BE66324246158A900D8F00E /* ToDoList.gif */; };
+		5BE663272461590E00D8F00E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5BE663262461590E00D8F00E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +57,8 @@
 		5BE6631A245FC59500D8F00E /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		5BE6631E2461270C00D8F00E /* ToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoViewController.swift; sourceTree = "<group>"; };
 		5BE6632024613E8700D8F00E /* ToDoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoCell.swift; sourceTree = "<group>"; };
+		5BE66324246158A900D8F00E /* ToDoList.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ToDoList.gif; path = ../../../../../../Downloads/ToDoList.gif; sourceTree = "<group>"; };
+		5BE663262461590E00D8F00E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../../../../Downloads/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +114,8 @@
 				5BE662EE245FC43000D8F00E /* Main.storyboard */,
 				5BE662F1245FC43400D8F00E /* Assets.xcassets */,
 				5BE662F3245FC43400D8F00E /* LaunchScreen.storyboard */,
+				5BE66324246158A900D8F00E /* ToDoList.gif */,
+				5BE663262461590E00D8F00E /* README.md */,
 				5BE662F6245FC43400D8F00E /* Info.plist */,
 				5BE66318245FC4BD00D8F00E /* ToDo.swift */,
 				5BE6631A245FC59500D8F00E /* ToDoTableViewController.swift */,
@@ -243,6 +249,8 @@
 			files = (
 				5BE662F5245FC43400D8F00E /* LaunchScreen.storyboard in Resources */,
 				5BE662F2245FC43400D8F00E /* Assets.xcassets in Resources */,
+				5BE663272461590E00D8F00E /* README.md in Resources */,
+				5BE66325246158A900D8F00E /* ToDoList.gif in Resources */,
 				5BE662F0245FC43000D8F00E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
